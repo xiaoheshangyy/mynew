@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zheng-admin" />
+        <module name="zheng-api-common" />
+        <module name="zheng-api-rpc-api" />
+        <module name="zheng-api-rpc-service" />
+        <module name="zheng-api-server" />
+        <module name="zheng-cms-admin" />
+        <module name="zheng-cms-common" />
+        <module name="zheng-cms-dao" />
+        <module name="zheng-cms-job" />
+        <module name="zheng-cms-rpc-api" />
+        <module name="zheng-cms-rpc-service" />
+        <module name="zheng-cms-search" />
+        <module name="zheng-cms-web" />
+        <module name="zheng-common" />
+        <module name="zheng-demo-rpc-api" />
+        <module name="zheng-demo-rpc-service" />
+        <module name="zheng-demo-web" />
+        <module name="zheng-message-sdk" />
+        <module name="zheng-message-server" />
+        <module name="zheng-oss-admin" />
+        <module name="zheng-oss-sdk" />
+        <module name="zheng-oss-web" />
+        <module name="zheng-pay-admin" />
+        <module name="zheng-pay-common" />
+        <module name="zheng-pay-dao" />
+        <module name="zheng-pay-rpc-api" />
+        <module name="zheng-pay-rpc-service" />
+        <module name="zheng-pay-sdk" />
+        <module name="zheng-pay-web" />
+        <module name="zheng-ucenter-common" />
+        <module name="zheng-ucenter-dao" />
+        <module name="zheng-ucenter-rpc-api" />
+        <module name="zheng-ucenter-rpc-service" />
+        <module name="zheng-ucenter-web" />
+        <module name="zheng-upms-client" />
+        <module name="zheng-upms-common" />
+        <module name="zheng-upms-dao" />
+        <module name="zheng-upms-rpc-api" />
+        <module name="zheng-upms-rpc-service" />
+        <module name="zheng-upms-server" />
+        <module name="zheng-wechat-mp-admin" />
+        <module name="zheng-wechat-mp-dao" />
+        <module name="zheng-wechat-mp-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
