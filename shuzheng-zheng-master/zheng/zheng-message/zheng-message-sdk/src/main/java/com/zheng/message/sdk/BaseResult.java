@@ -7,7 +7,7 @@ package com.zheng.message.sdk;
 public class BaseResult {
 
     /**
-     * 状态码：1成功，其他为失败
+     * 状态码：1成功，,,,其他为失败
      */
     public int code;
 
